@@ -1,0 +1,3 @@
+VIRTUAL_HOST=tuleap-aio-dev.dev.nala
+UID=1000
+GID=1000

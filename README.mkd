@@ -21,7 +21,7 @@ As of today, 3 docker images are used
 
 ## Todo list
 
- * Tools to build less for Tuleap sources
+ * ~~Tools to build less for Tuleap sources~~ `make less-docker`
  * LDAP server
  * Gerrit server
  * ElasticSearch server
